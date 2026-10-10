@@ -35,10 +35,6 @@ A platform for creative portfolios and service discovery in Korea. It includes c
 
 The application separates public discovery, creator workspaces, and administrator tools. Edits remain in review snapshots while the approved content stays available. Approval checks ownership and revision state before publication.
 
-## Public learning projects
-
-- [Reja](https://github.com/kakhkhorov97/Reja): A JavaScript CRUD project from my full-stack coursework.
-- [Practice](https://github.com/kakhkhorov97/Practice): Exercises in Git and Python fundamentals.
 
 ## Contact
 
