@@ -1,39 +1,51 @@
-# Shokhjakhon Kakhkhorov
+# Kakhkhorov Shokhjakhon (Sean)
 
-### Full-stack web developer
+### Hi there, I'm a Full-Stack Software Engineer 👋
 
-I build web applications with React, Next.js, TypeScript, and Node.js. My work connects user interfaces, APIs, authentication, and MongoDB data models. I'm interested in web developer opportunities in South Korea.
-
-한국의 웹 개발자 포지션에 관심이 있는 풀스택 웹 개발자입니다. React, Next.js, TypeScript, Node.js를 사용해 사용자 화면, API, 인증, 데이터베이스를 연결합니다.
+Based in **South Korea**, I specialize in building robust, scalable web applications from frontend interfaces to backend data models. I enjoy turning complex user workflows into clean, maintainable digital experiences
 
 ## Technologies I work with
 
-| Area | Technologies |
-| --- | --- |
-| Languages | JavaScript, TypeScript |
-| Frontend | React, Next.js, React Router, Redux Toolkit, Material UI, CSS |
-| Backend | Node.js, NestJS, Express, REST APIs, GraphQL |
-| Data and API clients | MongoDB, Mongoose, Apollo Client, Axios |
-| Development tools | Git, GitHub, npm |
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  
+  <br>
 
-## What I build
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 
-- Responsive interfaces with reusable components and shared hooks.
-- Frontend flows that connect forms, application state, and API requests.
-- REST and GraphQL APIs with separate controllers or resolvers, services, and data models.
-- Authentication, access controls, and ownership checks.
-- MongoDB models for related application data.
-- Creator workspaces, private inquiries, and administrator approval workflows.
+  <br>
 
-## Current work
+  <!-- Backend & APIs -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 
-### CreatorHub
+  <br>
 
-A platform for creative portfolios and service discovery in Korea. It includes creator editing, private inquiries, content approval, and protected administration.
+  <!-- Database & Tools -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-**Stack:** Next.js, TypeScript, Apollo Client, NestJS, GraphQL, MongoDB, Mongoose.
+---
 
-The application separates public discovery, creator workspaces, and administrator tools. Edits remain in review snapshots while the approved content stays available. Approval checks ownership and revision state before publication.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kakhkhorov97&show_icons=true&theme=radical&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kakhkhorov97&theme=radical&hide_border=true" />
+</p>
+
 
 
 ## Contact
