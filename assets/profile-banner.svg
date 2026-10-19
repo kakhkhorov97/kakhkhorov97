@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+<title id="title">Sean Kakhkhorov</title>
+<desc id="desc">Full-stack development, from code to production. React, Next.js, Node.js and NestJS. Interface to API to database to deploy.</desc>
+<rect width="1280" height="300" rx="12" fill="#0d2a20"/>
+<text x="54" y="112" fill="#f2efdf" font-family="Georgia,serif" font-size="62" font-weight="700">Sean Kakhkhorov</text>
+<text x="56" y="164" fill="#f2efdf" font-family="Georgia,serif" font-size="29">Full-stack development, from code to production</text>
+<text x="56" y="219" fill="#c3d7cc" font-family="Arial,sans-serif" font-size="23">React · Next.js · Node.js · NestJS</text>
+<g fill="none" stroke="#f2efdf" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="866" y="112" width="54" height="43" rx="4"/><path d="M866 123h54"/><path d="M874 118h1m6 0h1"/>
+<path d="M936 135h22m-7-6 7 6-7 6"/>
+<rect x="974" y="110" width="48" height="20" rx="4"/><rect x="974" y="137" width="48" height="20" rx="4"/><path d="M982 120h1m0 27h1m23-27h7m-7 27h7"/>
+<path d="M1038 135h22m-7-6 7 6-7 6"/>
+<ellipse cx="1096" cy="117" rx="25" ry="8"/><path d="M1071 117v32c0 11 50 11 50 0v-32m-50 16c0 11 50 11 50 0"/>
+<path d="M1137 135h22m-7-6 7 6-7 6"/>
+<path d="M1180 153h43a13 13 0 0 0 1-26 18 18 0 0 0-35-4 15 15 0 0 0-9 30z"/>
+</g>
+<g fill="#f2efdf" font-family="Arial,sans-serif" font-size="17" text-anchor="middle">
+<text x="893" y="190">Interface</text><text x="998" y="190">API</text><text x="1096" y="190">Database</text><text x="1203" y="190">Deploy</text>
+</g>
+</svg>
