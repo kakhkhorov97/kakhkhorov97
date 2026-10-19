@@ -36,4 +36,4 @@ Previously: IT Local · Atlantis Investment
 
 Based in Suwon, South Korea. English · Korean · Uzbek.
 
-[Email](mailto:kakhkhorov97@gmail.com) · [Telegram](https://t.me/kakhkhoro_v) · KakaoTalk ID: `kakhkhorov_A`
+[Email](mailto:kakhkhorov97@gmail.com) · [Telegram](https://t.me/kakhkhoro_v) · [KakaoTalk: kakhkhorov_A](http://qr.kakao.com/talk/5QImFOjS32KtvaTC9ro2dgB9hDE-)
