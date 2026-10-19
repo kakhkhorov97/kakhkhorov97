@@ -38,4 +38,4 @@ Based in **South Korea**, I specialize in building robust, scalable web applicat
 
 ## Contact
 
-[Telegram](https://t.me/kakhkhoro_v) · [GitHub](https://github.com/kakhkhorov97)
+[Telegram](https://t.me/kakhkhoro_v) ·
