@@ -4,8 +4,6 @@
 
 **Full-stack Developer · AI Engineering · Agentic Engineering · DevOps**
 
-KakaoTalk ID: `kakhkhorov_A`
-
 3+ years of professional experience. Frontends, APIs, authentication, real-time features, and Linux deployments.
 
 ## Featured work
