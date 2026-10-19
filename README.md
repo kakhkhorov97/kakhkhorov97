@@ -1,41 +1,37 @@
-# Kakhkhorov Shokhjakhon (Sean)
+![Sean Kakhkhorov — Full-stack development, from code to production](assets/profile-banner.svg)
 
-### Hi there, I'm a Full-Stack Software Engineer 👋
+# I build and run web applications.
 
-Based in **South Korea**, I specialize in building robust, scalable web applications from frontend interfaces to backend data models. I enjoy turning complex user workflows into clean, maintainable digital experiences
+3+ years of professional experience. Frontends, APIs, authentication, real-time features, and Linux deployments.
 
-## Technologies I work with
+## Featured work
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  <br>
+### [CreatorHub](https://creatorhub.site)
 
- 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+A multilingual platform connecting independent creators and clients in Korea. I designed, built, and deployed the frontend, backend, and infrastructure.
 
-  <br>
+- Next.js + NestJS GraphQL + MongoDB.
+- Private inquiries, live chat, moderation, and social sign-in.
+- Gemini assistant, automated checks, and health-checked deployments.
 
-  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+[Live site](https://creatorhub.site) · [Backend](https://github.com/kakhkhorov97/CreatorHub) · [Frontend](https://github.com/kakhkhorov97/CreatorHub-next)
 
-  <br>
+## Core stack
 
- 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+| Area | Technologies |
+| --- | --- |
+| Frontend | TypeScript, React, Next.js, Apollo Client |
+| Backend | Node.js, NestJS, Express, GraphQL, Socket.io |
+| Data | MongoDB, PostgreSQL, MySQL, Redis |
+| DevOps | Docker, Nginx, GitHub Actions, Ubuntu |
+| AI & coding agents | Gemini API, Claude Code, Codex, Cursor |
 
+## What I can help build
 
-## Contact
+Full-stack products, backend APIs, admin dashboards, real-time workflows, and AI-powered web features.
 
-[Telegram](https://t.me/kakhkhoro_v) ·
+Previously: IT Local · Atlantis Investment
+
+Based in Suwon, South Korea. English · Korean · Uzbek.
+
+[Email](mailto:kakhkhorov97@gmail.com) · [Telegram](https://t.me/kakhkhoro_v)
