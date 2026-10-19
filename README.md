@@ -2,6 +2,10 @@
 
 # I build and run web applications.
 
+**Full-stack Developer · AI Engineering · Agentic Engineering · DevOps**
+
+KakaoTalk ID: `kakhkhorov_A`
+
 3+ years of professional experience. Frontends, APIs, authentication, real-time features, and Linux deployments.
 
 ## Featured work
@@ -34,4 +38,4 @@ Previously: IT Local · Atlantis Investment
 
 Based in Suwon, South Korea. English · Korean · Uzbek.
 
-[Email](mailto:kakhkhorov97@gmail.com) · [Telegram](https://t.me/kakhkhoro_v)
+[Email](mailto:kakhkhorov97@gmail.com) · [Telegram](https://t.me/kakhkhoro_v) · KakaoTalk ID: `kakhkhorov_A`
