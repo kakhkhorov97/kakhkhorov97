@@ -1,8 +1,8 @@
-![Sean Kakhkhorov | Full-stack development, applied AI and DevOps](assets/profile-banner.svg)
+![Sean Kakhkhorov | Full Stack Developer · Agentic Engineer · AI Engineer · DevOps](assets/profile-banner.svg)
 
 # Sean Kakhkhorov
 
-**Full-stack developer | Applied AI and DevOps**
+**Full Stack Developer · Agentic Engineer · AI Engineer · DevOps**
 
 I build web applications, document-review tools, and source-grounded AI assistants. I have 3+ years of professional web development experience, covering interfaces, APIs, data modelling, authentication, and Linux deployments.
 
@@ -83,4 +83,5 @@ Lexara's platform stack also includes SQLAlchemy, Alembic, and pgvector. Its pro
 ## Contact
 
 [Portfolio](https://www.sean-kakhkhorov.site) · [Email](mailto:kakhkhorov97@gmail.com) · [Telegram](https://t.me/kakhkhoro_v) · [KakaoTalk](http://qr.kakao.com/talk/5QImFOjS32KtvaTC9ro2dgB9hDE-)
+
 
