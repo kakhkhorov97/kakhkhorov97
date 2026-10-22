@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
 <title id="title">Sean Kakhkhorov</title>
-<desc id="desc">Full-stack development, from code to production. React, Next.js, Node.js and NestJS. Interface to API to database to deploy.</desc>
+<desc id="desc">Full-stack development, from code to production. TypeScript, React, Next.js, NestJS and Python/FastAPI. Interface to API to database to deploy.</desc>
 <rect width="1280" height="300" rx="12" fill="#0d2a20"/>
 <text x="54" y="112" fill="#f2efdf" font-family="Georgia,serif" font-size="62" font-weight="700">Sean Kakhkhorov</text>
 <text x="56" y="164" fill="#f2efdf" font-family="Georgia,serif" font-size="29">Full-stack development, from code to production</text>
-<text x="56" y="219" fill="#c3d7cc" font-family="Arial,sans-serif" font-size="23">Full-stack Developer · AI Engineering · Agentic Engineering · DevOps</text>
+<text x="56" y="219" fill="#c3d7cc" font-family="Arial,sans-serif" font-size="23">Full-stack development · Applied AI · DevOps</text>
 <g fill="none" stroke="#f2efdf" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
 <rect x="866" y="112" width="54" height="43" rx="4"/><path d="M866 123h54"/><path d="M874 118h1m6 0h1"/>
 <path d="M936 135h22m-7-6 7 6-7 6"/>
@@ -18,3 +18,4 @@
 <text x="893" y="190">Interface</text><text x="998" y="190">API</text><text x="1096" y="190">Database</text><text x="1203" y="190">Deploy</text>
 </g>
 </svg>
+
