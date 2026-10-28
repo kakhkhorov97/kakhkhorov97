@@ -13,13 +13,13 @@ Based in Suwon, South Korea, and open to opportunities in Korea. I work in Engli
 | Project | Purpose and current status | Inspect |
 | --- | --- | --- |
 | CreatorHub | Live creator discovery, multilingual portfolios, private inquiries and messaging. Solo project. | [Demo](https://creatorhub.site) · [Backend](https://github.com/kakhkhorov97/CreatorHub) · [Frontend](https://github.com/kakhkhorov97/CreatorHub-next) |
-| CargoCheck AI | Live early shipping-document review app. Gemini extraction, human corrections, deterministic comparison and PDF reports. | [Demo](https://cargocheck-ai-web.vercel.app) · [Code](https://github.com/kakhkhorov97/cargocheck-ai) |
+| CargoCheck AI | Live early shipping-document review app. deterministic comparison and PDF reports. | [Demo](https://cargocheck-ai-web.vercel.app) · [Code](https://github.com/kakhkhorov97/cargocheck-ai) |
 | Korea Visa Assistant | Live public beta for selected official Korean visa sources. English/Korean answers, quotations, citations and keyword source search. | [Demo](https://korea-visa-rag-jwq77bpivq-uc.a.run.app/) · [Code](https://github.com/kakhkhorov97/korea-visa-rag) |
-| Sofiya Bookstore | Live v2 bookstore demo. Next.js/NestJS, PostgreSQL and a Gemini catalogue assistant. Demo stock/orders and test payments; legacy version preserved separately. | [Demo](https://sofiya.store) · [monorepo](https://github.com/kakhkhorov97/Sofiya-Bookstore/tree/v2) · [frontend](https://github.com/kakhkhorov97/Sofiya-react) |
+| Sofiya Bookstore | Live bookstore demo. Next.js/NestJS, PostgreSQL and a Gemini catalogue assistant. Demo stock/orders and test payments; legacy version preserved separately. | [Demo](https://sofiya.store) · [monorepo](https://github.com/kakhkhorov97/Sofiya-Bookstore/tree/v2) · [frontend](https://github.com/kakhkhorov97/Sofiya-react) |
 
-CreatorHub demonstrates transaction-backed retry protection, notification-worker recovery and manual paired Docker/Nginx releases. CargoCheck keeps human review between Gemini extraction and deterministic comparison. Korea Visa Assistant combines Korean keyword and vector retrieval and restores its Cloud Run index without startup embedding calls.
+CreatorHub demonstrates transaction-backed retry protection, notification-worker recovery and manual paired Docker/Nginx releases. CargoCheck combines Gemini document extraction, human field review and deterministic comparison. Korea Visa Assistant combines Korean keyword and vector retrieval and restores its Cloud Run index without startup embedding calls. Sofiya combines a Next.js/NestJS bookstore with PostgreSQL, hybrid catalogue search, Gemini book recommendations and idempotent ordering.
 
-CargoCheck remains an early build: bulk confirmation does not save pending field edits, and uploaded originals use ephemeral storage. Visa retrieval scores do not measure legal-answer accuracy. The project repositories contain detailed architecture, setup and evaluation records.
+CargoCheck remains an early build: bulk confirmation does not save pending field edits, and uploaded originals use ephemeral storage. Visa retrieval scores do not measure legal-answer accuracy. Sofiya’s live uses demo stock and orders with test payments; the earlier React/Express version is preserved separately. The project repositories contain detailed architecture, setup and evaluation records.
 
 ## More work
 
