@@ -6,7 +6,7 @@ Full-stack developer building web applications, document-review tools and source
 
 Based in Suwon, South Korea, and open to opportunities in Korea. I work in English, Korean and Uzbek.
 
-[Portfolio & resumes](https://sean-kakhkhorov.site) · [Email](mailto:kakhkhorov97@gmail.com) · [Telegram](https://t.me/kakhkhoro_v)
+[Portfolio & resumes](https://sean-kakhkhorov.site) · [Email](mailto:kakhkhorov97@gmail.com)
 
 ## Selected projects
 
