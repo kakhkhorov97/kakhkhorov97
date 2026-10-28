@@ -15,6 +15,7 @@ Based in Suwon, South Korea, and open to opportunities in Korea. I work in Engli
 | CreatorHub | Live creator discovery, multilingual portfolios, private inquiries and messaging. Solo project. | [Demo](https://creatorhub.site) · [Backend](https://github.com/kakhkhorov97/CreatorHub) · [Frontend](https://github.com/kakhkhorov97/CreatorHub-next) |
 | CargoCheck AI | Live early shipping-document review app. Gemini extraction, human corrections, deterministic comparison and PDF reports. | [Demo](https://cargocheck-ai-web.vercel.app) · [Code](https://github.com/kakhkhorov97/cargocheck-ai) |
 | Korea Visa Assistant | Live public beta for selected official Korean visa sources. English/Korean answers, quotations, citations and keyword source search. | [Demo](https://korea-visa-rag-jwq77bpivq-uc.a.run.app/) · [Code](https://github.com/kakhkhorov97/korea-visa-rag) |
+| Sofiya Bookstore | Live v2 bookstore demo. Next.js/NestJS, PostgreSQL and a Gemini catalogue assistant. Demo stock/orders and test payments; legacy version preserved separately. | [Demo](https://sofiya.store) · [v2 code](https://github.com/kakhkhorov97/Sofiya-Bookstore/tree/v2) · [Legacy frontend](https://github.com/kakhkhorov97/Sofiya-react) |
 
 CreatorHub demonstrates transaction-backed retry protection, notification-worker recovery and manual paired Docker/Nginx releases. CargoCheck keeps human review between Gemini extraction and deterministic comparison. Korea Visa Assistant combines Korean keyword and vector retrieval and restores its Cloud Run index without startup embedding calls.
 
@@ -31,9 +32,6 @@ The platform uses Python/FastAPI, React/Vite, PostgreSQL, SQLAlchemy/Alembic, Op
 
 [Public site](https://lexara-top.vercel.app)
 
-### Sofiya Bookstore
-
-Live v2 demo, with the legacy version preserved. The Next.js/NestJS rebuild on `v2` uses PostgreSQL and a Gemini book assistant grounded in catalogue results. [Live demo](https://sofiya.store), with demo stock/orders and test payments. [Source](https://github.com/kakhkhorov97/Sofiya-Bookstore) · [Legacy frontend](https://github.com/kakhkhorov97/Sofiya-react).
 
 ## Demonstrated skills
 
