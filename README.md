@@ -40,8 +40,8 @@ The platform uses Python/FastAPI, React/Vite, PostgreSQL, SQLAlchemy/Alembic, Op
 
 ## Professional background
 
-- IT Local · Full-stack Web Developer · November 2023 to February 2026. Built and maintained websites for 20+ client companies in a team of 4+ developers. Worked on frontend and backend features, database queries, CI deployments and 5-15 Ubuntu servers.
+- IT Local · Full-stack Web Developer · November 2023 to February 2026. Built and maintained websites for 20+ client companies in a core team of 4 developers. Worked on frontend and backend features, database queries, CI deployments and 5-15 Ubuntu servers.
 - Atlantis Investment · Backend Developer · April to September 2023. Built Express/MongoDB APIs, authentication, uploads and indexed search while studying.
-- Chonnam National University · B.A. in International Trade. Studied mainly in Korean.
+- Chonnam National University · B.A. in International Trade. Taught entirely in Korean.
 
 [Portfolio & resumes](https://sean-kakhkhorov.site) · [Email](mailto:kakhkhorov97@gmail.com) · [KakaoTalk](http://qr.kakao.com/talk/5QImFOjS32KtvaTC9ro2dgB9hDE-)
