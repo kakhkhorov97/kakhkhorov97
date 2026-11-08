@@ -2,7 +2,7 @@
 
 # Sean Kakhkhorov
 
-Full-stack developer building web applications, document-review tools and source-grounded AI assistants. My work covers interfaces, APIs, authentication, data models and deployment, with 2 years 10 months of professional web development.
+Full-stack developer building web applications, document-review tools and source-grounded AI assistants. My work covers interfaces, APIs, authentication, data models and deployment, with about 3 years of professional web development.
 
 Based in Suwon, South Korea, and open to opportunities in Korea. I work in English, Korean and Uzbek.
 
@@ -40,8 +40,8 @@ The platform uses Python/FastAPI, React/Vite, PostgreSQL, SQLAlchemy/Alembic, Op
 
 ## Professional background
 
-- IT Local · Full-stack Web Developer · November 2023 to February 2026. Built and maintained websites for 20+ client companies in a core team of 4 developers. Worked on frontend and backend features, database queries, CI deployments and 5-15 Ubuntu servers.
-- Atlantis Investment · Backend Developer · April to September 2023. Built Express/MongoDB APIs, authentication, uploads and indexed search while studying.
+- IT Local · Full-stack Web Developer · September 2023 to April 2026 (full-time, contract ended). Built and maintained websites for 20+ client companies in a core team of 4 developers. Worked on frontend and backend features, database queries, CI deployments and 5-15 Ubuntu servers.
+- Golden Valley Investment (formerly Atlantis Investment) · Junior Backend Developer · April to September 2023 (remote, project-based contract). Maintained a Tashkent real-estate company's existing Express.js/MongoDB backend: bug fixes, small features, JWT/session auth, file uploads and MongoDB indexes for search and pagination.
 - Chonnam National University · B.A. in International Trade. Taught entirely in Korean.
 
 [Portfolio & resumes](https://sean-kakhkhorov.site) · [Email](mailto:kakhkhorov97@gmail.com) · [KakaoTalk](http://qr.kakao.com/talk/5QImFOjS32KtvaTC9ro2dgB9hDE-)
